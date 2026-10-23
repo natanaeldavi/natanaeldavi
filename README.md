@@ -24,26 +24,6 @@ Atualmente atuo como Eletricista, mas estou em plena transição e expansão par
 
 ---
 
-### 📊 Estatísticas e Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaeldavi&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natanaeldavi/natanaeldavi/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/natanaeldavi/natanaeldavi/output/github-contribution-grid-snake.svg" alt="github snake animation">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=natanaeldavi&style=flat-square&color=ed8b00" alt="Visitor Count" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 - [LinkedIn](https://linkedin.com/in/natanaeldavi)
